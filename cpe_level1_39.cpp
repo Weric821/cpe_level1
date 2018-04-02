@@ -1,3 +1,4 @@
+//(CPE10566, UVA10242)
 #include<iostream>
 #include<iomanip>
 #include<map>
